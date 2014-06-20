@@ -1,0 +1,30 @@
+{
+  "name": "ES6Tools",
+  "version": "0.0.1",
+  "description": "A proof of concept of an ES6 MooTools",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "ES6", "MooTools"
+  ],
+  "author": "Cristian Carlesso <kentaromiura@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kentaromiura/ES6Tools/issues"
+  },
+  "homepage": "https://github.com/kentaromiura/ES6Tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kentaromiura/ES6Tools.git"
+  },
+  "dependencies": {
+    "wrapup": "*",
+    "harmonify":"*"
+  },
+  "devDependencies":{
+    "mocha":"*",
+    "expect.js":"*"
+  }
+}
